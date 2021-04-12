@@ -1,0 +1,23 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkinWD/ecomm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkinWD/ecomm/issues"
+  },
+  "homepage": "https://github.com/LinkinWD/ecomm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
